@@ -16,10 +16,30 @@
   text-align: center;
 }
 
-h2 {
+.flex-container {
+  display: flex;
+
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* .about {
+  display: flex;
+  justify-content: center;
+} */
+
+.aboutText {
+  /* display: flex; */
+  text-align: center;
+  max-width: 40em;
+}
+
+.button-container {
   text-align: center;
 }
 
-p {
-  text-align: center;
+.btn {
+  margin: 5px;
 }
+

@@ -4,6 +4,7 @@ Personal portfolio project to showcase various coding projects and skills learne
 
 Roadmap:
 - Addition and further refinement of coding projects as skill level and learning increases.
+- Better learn CSS to center paragraph elements.
 
 MIT License
 
